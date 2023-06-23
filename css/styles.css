@@ -1,0 +1,48 @@
+.head1{
+    text-align: center;
+    background-color:rgb(239,167,107); 
+    padding: 0.2%;
+}
+.navbar{
+    background-color: rgb(21,63,116);
+}
+.carousal-img{
+    padding: 1% 15%;
+}
+#info{
+    padding: 1% 15%;
+    text-align: center;
+}
+.info-column{
+    padding: 3% 2%;
+}
+.info-row{
+    padding: 0% 12%;
+}
+.aboutus{
+    font-size:small;
+}
+.card{
+    border-radius: 5%;
+    border-color: rgb(255,77,0);
+}
+.card-header{
+    background-color: rgb(239,167,107);
+    text-align: center;
+}
+.dropdown-menu li {
+    position: relative;
+    }
+    .dropdown-menu .dropdown-submenu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: -7px;
+    }
+    .dropdown-menu .dropdown-submenu-left {
+    right: 100%;
+    left: auto;
+    }
+.dropdown-menu > li:hover > .dropdown-submenu {
+    display: block;
+    }
